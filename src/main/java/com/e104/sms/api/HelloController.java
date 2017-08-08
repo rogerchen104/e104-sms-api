@@ -8,4 +8,7 @@ public class HelloController {
     public void getTableList() {
     		System.out.println("Hello!!!!!!!!");
     }
+    public String index() {
+		return "";
+    }
 }
